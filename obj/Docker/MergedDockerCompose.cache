@@ -1,0 +1,13 @@
+networks:
+  default:
+    external:
+      name: nat
+services:
+  simplewebapi:
+    build:
+      context: D:\MyRepos\ContainerStarter\SimpleWebApi
+      dockerfile: Dockerfile
+    image: simplewebapi
+    ports:
+    - 80/tcp
+version: '3.0'

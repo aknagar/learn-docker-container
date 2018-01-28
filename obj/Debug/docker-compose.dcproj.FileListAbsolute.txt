@@ -1,0 +1,2 @@
+D:\MyRepos\ModernizeToContainer\obj\Debug\docker-compose.dcproj.CoreCompileInputs.cache
+D:\MyRepos\ContainerStarter\obj\Debug\docker-compose.dcproj.CoreCompileInputs.cache

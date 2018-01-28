@@ -1,0 +1,2 @@
+D:\MyRepos\AsfIISContainer\obj\x64\Debug\AsfIISContainer.sfproj.CoreCompileInputs.cache
+D:\MyRepos\ModernizeToContainer\AsfIISContainer\obj\x64\Debug\AsfIISContainer.sfproj.CoreCompileInputs.cache

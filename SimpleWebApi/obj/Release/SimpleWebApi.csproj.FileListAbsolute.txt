@@ -1,0 +1,16 @@
+D:\MyRepos\ModernizeToContainer\SimpleWebApi\bin\SimpleWebApi.dll.config
+D:\MyRepos\ModernizeToContainer\SimpleWebApi\bin\SimpleWebApi.dll
+D:\MyRepos\ModernizeToContainer\SimpleWebApi\bin\SimpleWebApi.pdb
+D:\MyRepos\ModernizeToContainer\SimpleWebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\MyRepos\ModernizeToContainer\SimpleWebApi\bin\Newtonsoft.Json.dll
+D:\MyRepos\ModernizeToContainer\SimpleWebApi\bin\System.Net.Http.Formatting.dll
+D:\MyRepos\ModernizeToContainer\SimpleWebApi\bin\System.Web.Http.dll
+D:\MyRepos\ModernizeToContainer\SimpleWebApi\bin\System.Web.Http.WebHost.dll
+D:\MyRepos\ModernizeToContainer\SimpleWebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\MyRepos\ModernizeToContainer\SimpleWebApi\bin\Newtonsoft.Json.xml
+D:\MyRepos\ModernizeToContainer\SimpleWebApi\bin\System.Net.Http.Formatting.xml
+D:\MyRepos\ModernizeToContainer\SimpleWebApi\bin\System.Web.Http.xml
+D:\MyRepos\ModernizeToContainer\SimpleWebApi\bin\System.Web.Http.WebHost.xml
+D:\MyRepos\ModernizeToContainer\SimpleWebApi\obj\Release\SimpleWebApi.csproj.CoreCompileInputs.cache
+D:\MyRepos\ModernizeToContainer\SimpleWebApi\obj\Release\SimpleWebApi.dll
+D:\MyRepos\ModernizeToContainer\SimpleWebApi\obj\Release\SimpleWebApi.pdb

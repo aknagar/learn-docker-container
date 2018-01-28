@@ -1,0 +1,9 @@
+version: '3'
+
+services:
+  simplewebapi:
+    image: simplewebapi
+    build:
+      context: .\SimpleWebApi
+      dockerfile: Dockerfile
+      
